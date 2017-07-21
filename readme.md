@@ -1,27 +1,16 @@
 ## 基础
-* 打印语句
 
-|Java|Python|
-|:---------|:------------|
-| `System.out.printf("Hello World");` |`print 'Hello World'` |
+*  打印语句
+```java
+System.out.printf("Hello World");
+```
+```python
+print 'World Hello'
+```
+*  变量
+```
 
-* 变量
+```
+```
 
-| Java | Python| 
-| ----|-----| 
-|``|``| 
-|   |   |
-
-* 
-
-| Java | Python| 
-| ----|-----| 
-|``|``| 
-|   |   |
-
-* 
-
-| Java | Python| 
-| ----|-----| 
-|``|``| 
-|   |   |
+```
