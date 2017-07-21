@@ -3,8 +3,7 @@
 
 | Java | Python| 
 | ----|-----| 
-| `System.out.printf("Hello World");` |`print 'Hello World'` | 
-|   |   |
+| `System.out.printf("Hello World");` |`print 'Hello World'` |
 
 * 变量
 
