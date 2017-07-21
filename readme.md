@@ -5,7 +5,7 @@
 System.out.printf("Hello World");
 ```
 ```python
-print 'World Hello'
+print 'Hello World'
 ```
 *  变量
 ```
